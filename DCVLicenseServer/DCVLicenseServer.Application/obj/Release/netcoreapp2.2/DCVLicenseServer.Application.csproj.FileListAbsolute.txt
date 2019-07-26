@@ -1,0 +1,14 @@
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.Application.deps.json
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.Application.dll
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.Application.pdb
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.Core.dll
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.EntityFrameworkCore.dll
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.Core.pdb
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\bin\Release\netcoreapp2.2\DCVLicenseServer.EntityFrameworkCore.pdb
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.csprojAssemblyReference.cache
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.csproj.CoreCompileInputs.cache
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.AssemblyInfoInputs.cache
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.AssemblyInfo.cs
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.csproj.CopyComplete
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.dll
+F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Application\obj\Release\netcoreapp2.2\DCVLicenseServer.Application.pdb

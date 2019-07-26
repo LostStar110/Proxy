@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sbp" Version="1.0.6" />
+    <PackageReference Include="Sbp.AspNetCore" Version="1.0.4" />
+    <PackageReference Include="Sbp.AutoMapper" Version="1.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DCVLicenseServer.Core\DCVLicenseServer.Core.csproj" />
+    <ProjectReference Include="..\DCVLicenseServer.EntityFrameworkCore\DCVLicenseServer.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

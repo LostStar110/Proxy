@@ -1,0 +1,127 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DCVLicenseServer.Web</name>
+    </assembly>
+    <members>
+        <member name="M:DCVLicenseServer.Web.Areas.Auth.Controllers.TokenAuthController.Authenticate(DCVLicenseServer.Core.Auth.AuthenticateModel)">
+            <summary>
+            身份验证、获取token
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.APILicenseController.Create(DCVLicenseServer.Application.APILicenses.Dto.CreateALDto)">
+            <summary>
+            创建API授权
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.APILicenseController.GetPageList(System.Int32,System.Int32,System.String)">
+            <summary>
+             按项目名分页获取API授权、
+            </summary>
+            <param name="index"></param>
+            <param name="pageCount"></param>
+            <param name="Name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProductLicenseController.Create(DCVLicenseServer.Application.CreatePLDto)">
+            <summary>
+            创建授权
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProductLicenseController.GetPageList(System.Int32,System.Int32,System.String)">
+            <summary>
+             按项目名分页获取授权、
+            </summary>
+            <param name="index"></param>
+            <param name="pageCount"></param>
+            <param name="Name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProjectController.GetAll">
+            <summary>
+            获取所有项目
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProjectController.Create(DCVLicenseServer.Application.ProjectDto)">
+            <summary>
+            添加项目
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProjectController.Delete(System.String)">
+            <summary>
+            删除项目
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.License.Controllers.ProjectController.GetOpenAPI(System.String)">
+            <summary>
+            获取指定项目的OpenAPI列表
+            </summary>
+            <param name="name"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.Base64Controller.EncryptString(DCVLicenseServer.Web.Core.Model.DataString)">
+            <summary>
+            Base64加密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.Base64Controller.DecryptString(DCVLicenseServer.Web.Core.Model.DataString)">
+            <summary>
+            Base64解密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.DESController.EncryptString(DCVLicenseServer.Web.Core.Model.DesDataString)">
+            <summary>
+            Des加密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.DESController.DecryptString(DCVLicenseServer.Web.Core.Model.DesDataString)">
+            <summary>
+            Des解密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.MD5Controller.EncryptString(DCVLicenseServer.Web.Core.Model.DataString)">
+            <summary>
+            MD5算法加密字符串
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.RSAController.CreateRSAKeys">
+            <summary>
+            生成RSA公钥和密钥
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.RSAController.EncryptString(DCVLicenseServer.Web.Core.RSAEncryptString)">
+            <summary>
+            RSA算法根据公钥加密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DCVLicenseServer.Web.Areas.Utils.Controllers.RSAController.DecryptString(DCVLicenseServer.Web.Core.RSADecryptString)">
+            <summary>
+            RSA算法根据私钥解密
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

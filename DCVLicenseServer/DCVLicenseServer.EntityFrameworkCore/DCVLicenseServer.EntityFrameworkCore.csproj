@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20190619080853_init.cs" />
+    <Compile Remove="Migrations\20190619084010_init.cs" />
+    <Compile Remove="Migrations\20190620025906_addapilicense.cs" />
+    <Compile Remove="Migrations\20190620060103_addapilicense.cs" />
+    <Compile Remove="Migrations\20190620060216_addapilicense.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Sbp.EntityFrameworkCore.Mysql" Version="1.0.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DCVLicenseServer.Core\DCVLicenseServer.Core.csproj" />
+  </ItemGroup>
+
+</Project>

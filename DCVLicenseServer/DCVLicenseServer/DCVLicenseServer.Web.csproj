@@ -1,0 +1,53 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer\DCVLicenseServer.Web.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\Auth\Data\**" />
+    <Compile Remove="Areas\Auth\Models\**" />
+    <Compile Remove="Areas\Auth\Views\**" />
+    <Content Remove="Areas\Auth\Data\**" />
+    <Content Remove="Areas\Auth\Models\**" />
+    <Content Remove="Areas\Auth\Views\**" />
+    <EmbeddedResource Remove="Areas\Auth\Data\**" />
+    <EmbeddedResource Remove="Areas\Auth\Models\**" />
+    <EmbeddedResource Remove="Areas\Auth\Views\**" />
+    <None Remove="Areas\Auth\Data\**" />
+    <None Remove="Areas\Auth\Models\**" />
+    <None Remove="Areas\Auth\Views\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.2.3" />
+    <PackageReference Include="MKUtils.IO" Version="1.0.2" />
+    <PackageReference Include="Sbp" Version="1.0.7" />
+    <PackageReference Include="Sbp.AspNetCore" Version="1.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DCVLicenseServer.Application\DCVLicenseServer.Application.csproj" />
+    <ProjectReference Include="..\DCVLicenseServer.Web.Core\DCVLicenseServer.Web.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\GrantFiles\HFYC\API\" />
+    <Folder Include="wwwroot\GrantFiles\HFYC\Product\" />
+    <Folder Include="wwwroot\GrantFiles\ZGYZ\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="DCVLicenseServer.Web.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

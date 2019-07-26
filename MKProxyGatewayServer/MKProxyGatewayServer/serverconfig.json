@@ -1,0 +1,15 @@
+{
+  "ProxiedServerList": [
+    {
+      "Name": "MainServer",
+      "URL": "http://localhost:60000",
+      "Type": "Main"
+    },
+    {
+      "Name": "BakeServer1",
+      "URL": "http://localhost:60001",
+      "Type": "Bake"
+    }
+  ]
+
+}

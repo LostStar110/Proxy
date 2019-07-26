@@ -1,9 +1,0 @@
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\bin\Debug\netcoreapp2.2\DCVLicenseServer.Core.deps.json
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\bin\Debug\netcoreapp2.2\DCVLicenseServer.Core.dll
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\bin\Debug\netcoreapp2.2\DCVLicenseServer.Core.pdb
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.csprojAssemblyReference.cache
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.csproj.CoreCompileInputs.cache
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.AssemblyInfoInputs.cache
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.AssemblyInfo.cs
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.dll
-F:\MKProjects\IDCV-License\IDCV-IDCVLicense\DCVLicense\server\DCVLicenseServer\DCVLicenseServer.Core\obj\Debug\netcoreapp2.2\DCVLicenseServer.Core.pdb
